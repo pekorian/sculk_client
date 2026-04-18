@@ -3,7 +3,7 @@
 <img src="https://p.novaskin.me/4854317002.png?class=thumbnail" alt="sculk-logo" width="15%"/>
 </p>
 
-<h1 align="center">Scullk</h1>
+<h1 align="center">Sculk</h1>
 <p align="center">a meteor-based minecraft utillity mod made for anarchy servers.</p>
 
 
